@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Sandjio/cypress-payment-form-automation-testing/issues"
   },
-  "homepage": "https://github.com/Sandjio/cypress-payment-form-automation-testing#readme"
+  "homepage": "https://github.com/Sandjio/cypress-payment-form-automation-testing#readme",
+  "devDependencies": {
+    "cypress": "^15.4.0"
+  }
 }
